@@ -1,19 +1,19 @@
-## Tutoriais, dicas e projetos pessoais com Arduino
+## Tutoriais, dicas e projetos com Arduino
 
 <p align="center">
   <img width="400" height="200" src="https://media.giphy.com/media/v4sOCVX9Dhsv6/giphy.gif">
 </p>
 
-Esse repositório é destinado àqueles que desejam saber o que é Arduino e também para quem já sabe e quer saber dicas de como ampliar seus conhecimentos.
-A pasta "Projetos Arduino" contém alguns projetos pessoais, com código e sketch(imagem dos componentes conectados ao Arduino) no seguinte fomato: *nome_do_projeto.ino* e *nome_do_project_sketch.png*.
+Esse repositório é destinado àqueles que desejam saber o que é e como utilizar Arduino e também para quem conhece e deseja ampliar seus conhecimentos.
+A pasta "Projetos Arduino" contém alguns projetos pessoais, com código e sketch(imagem dos componentes conectados ao Arduino) nos seguintes fomato: *nome_do_projeto.ino* e *nome_do_project_sketch.png*.
 
-Antes de mais nada, se você não sabe o que é Arduino, veja esse vídeo e analise se vale a pena gastar seu tempo e dinheiro com essa "plataforma de prototipagem eletrônica de hardware livre e de placa única":
-[O que é Arduino, afinal de contas?](https://www.youtube.com/watch?v=sv9dDtYnE1g&t=140s).
+Antes de mais nada, se você não sabe o que é Arduino, esse vídeo por te ajudar com essa "plataforma de prototipagem eletrônica de hardware livre e de placa única":
+[O que é Arduino, afinal de contas?](https://www.youtube.com/watch?v=sv9dDtYnE1g&t=140s)
 
 Achou interessante e quer aprender mais sobre o assunto? Então aqui vão alguns links úteis:
 
 ### Antes de tudo
-Para utilizar o Arduino, é necessário saber programar. Então se você não entende nada de programação, recomendo assistir essa playlist sobre lógica de programação [curso de lógica de programação](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV). Com esses vídeos, você terá a base para entender melhor os códigos que serão feitos nos tutoriais a seguir.
+Para utilizar o Arduino, é necessário saber programar. Então se você não entende nada de programação, recomendo assistir essa playlist [Curso de Lógica de Programação](https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV). Com isso você terá a base para entender melhor os códigos que serão feitos nos tutoriais a seguir.
 
 ### Sites e blogs
 * [Site oficial](https://www.arduino.cc/), onde você pode encontrar tutoriais, comunidade, além do link para baixar a IDE.
@@ -22,8 +22,8 @@ Para utilizar o Arduino, é necessário saber programar. Então se você não en
 
 ### Youtube
 **Recomendo fortemente** começar o aprendizado de Arduino através do Youtube:
+* [Curso Arduino - CFBCursos](https://www.youtube.com/watch?v=Vuof27YELEI&list=PLx4x_zx8csUgWBTvA-fluHV970SzDJRBw), meu curso favorito de Arduino, com explicações simples e diretas, além de vários projetos interessantes.
 * [Curso Arduino - Brincando com Ideias](https://www.youtube.com/watch?v=rCILKZPG0Kg&list=PL7CjOZ3q8fMc3OmT7gD7N6sLLFfXsXGZi), esse é um canal brasileiro sobre Arduino com vários tutoriais. No link você pode acessar uma playlist com aulas para iniciantes e fazer seus primeiros projetos. Após isso, pode assistir as outras playlists.
-* [Curso Arduino - CFBCursos](https://www.youtube.com/watch?v=Vuof27YELEI&list=PLx4x_zx8csUgWBTvA-fluHV970SzDJRBw), meu curso favotiro de Arduino, com explicações simples e diretas, além de vários projetos interessantes.
 * [Inteligência Mil Grau](https://www.youtube.com/channel/UCQy7CQvtuGSKp-2VGtmTAuQ), esse canal é para quem, assim como eu, gosta de utilizar o Arduino em projetos de inteligência artificial e robótica.
 * [The Wrench](https://www.youtube.com/channel/UC92-zm0B8vLq-mtJtSHnrJQ/search?query=arduino), esse canal possui uns tutoriais mais avançados, além de ser tudo em inglês, porém vários projetos interessantes para você se inspirar.
 
